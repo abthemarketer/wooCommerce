@@ -1,4 +1,4 @@
-=== theMarketer for Woocommerce ===
+=== heMarketer - Email marketing, Newsletters, Automation & Loyalty for Woocommerce ===
 Contributors: themarketer2023
 Tags: WooCommerce, theMarketer, Email marketing, Loyalty Program
 Requires at least: 4.6
